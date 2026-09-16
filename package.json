@@ -1,0 +1,25 @@
+{
+  "name": "romantic-proposal",
+  "version": "1.0.0",
+  "description": "A beautiful interactive proposal page with animations and a playful dodging button",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "proposal",
+    "romantic",
+    "interactive",
+    "animation",
+    "love",
+    "girlfriend",
+    "boyfriend"
+  ],
+  "author": "Krishna",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piyush086524-byte/romantic-proposal.git"
+  },
+  "homepage": "https://piyush086524-byte.github.io/romantic-proposal/"
+}
